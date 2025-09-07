@@ -1,11 +1,15 @@
- body{
+header{
+  background-color: darkgrey;
+}
+
+body{
   text-align:center;
   font-family:Open Sans,sans-serif;
-  background-color:#8a71c9;
-  color:#ffffff;
+  background-color:#333333;
+  color:#BA4432;
   margin:0px auto 30px;}
 
-h1{color:#2A0074; font-size:40px;}
+h1{color:#740000; font-size:40px;}
 
 .titulo-verde{color:#04ff9f;}
 .titulo-rosa{color:#ff9e9e;}
