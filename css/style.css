@@ -18,7 +18,9 @@ h1{color:#34495e; font-size:40px;}
 main{margin:0 auto; width:60%;}
 
 img{width:100%;}
-figcaption{font-size:20px;}
+
+.banda{width 500px; height:500px;}
+
 
 h2{font-size:85px; font-weight:normal;}
 h3{font-size:22px; font-style:italic; color: #BA4432; font-size:30px;}
