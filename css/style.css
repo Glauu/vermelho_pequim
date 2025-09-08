@@ -11,9 +11,9 @@
 
 h1{color:#34495e; font-size:40px;}
 
-.titulo-verde{color:#04ff9f; font-size:40px;}
-.titulo-rosa{color:#ff9e9e; font-size:40px;}
-.titulo-amarelo{color:#ffe36d; font-size:40px;}
+.titulo-verde{color:#ffb6b6; font-size:40px;}
+.titulo-rosa{color:#ffa6a6; font-size:40px;}
+.titulo-amarelo{color:#f8eec7; font-size:40px;}
 
 main{margin:0 auto; width:60%;}
 
@@ -38,3 +38,5 @@ width:60%; margin:0 auto;
 .principal li{line-height:1.5; margin:2px 89px; max-width:60%; display:inline-block;}
 
 .inferior ul{margin:0  auto; width: 60%;}
+
+a:hover{color:royalblue}
