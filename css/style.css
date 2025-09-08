@@ -11,9 +11,9 @@
 
 h1{color:#34495e; font-size:40px;}
 
-.titulo-verde{color:#04ff9f;}
-.titulo-rosa{color:#ff9e9e;}
-.titulo-amarelo{color:#ffe36d;}
+.titulo-verde{color:#04ff9f; font-size:40px;}
+.titulo-rosa{color:#ff9e9e; font-size:40px;}
+.titulo-amarelo{color:#ffe36d; font-size:40px;}
 
 main{margin:0 auto; width:60%;}
 
@@ -21,19 +21,17 @@ img{width:100%;}
 figcaption{font-size:20px;}
 
 h2{font-size:85px; font-weight:normal;}
-h3{font-size:22px; font-style:italic; color: #34495e;}
+h3{font-size:22px; font-style:italic; color: #BA4432; font-size:30px;}
 p{font-size:20px; line-height:1,5}
 
 ul{list-style-type:none; 
 padding-left:0; line-height:2;}
 
- a{text-decoration:none;font-weight:700;
- color:#99ffff;}
+ a{text-decoration:none;font-weight:900;
+ color:#ffb0f2;}
 
-.texto-branco{color:#ffffff;
-text-decoration:underline; font-weight:normal; font-stretch:40px;
-
-}
+.texto-branco{color:#fff3fd;
+text-decoration:underline; font-weight:normal; font-stretch:40px;}
 .principal{background-color:#a77c91;
 width:60%; margin:0 auto;
 }
@@ -41,6 +39,5 @@ width:60%; margin:0 auto;
 
 .inferior ul{margin:0  auto; width: 60%;}
 
-button{background-color:#41f341; border:1px solid transparent;padding:2px 20px;border-radius: 3px;}
 
 a:hover{color:royalblue}
