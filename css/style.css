@@ -92,3 +92,8 @@ video {
     margin: 0;
     font-size: 14px;
 }
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
