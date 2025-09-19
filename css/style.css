@@ -47,7 +47,7 @@ a:hover{color:royalblue}
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
     margin: 30px 0;
-}
+}*/
 
 .video-card {
     background: rgba(0, 0, 0, 0.5);
@@ -65,9 +65,9 @@ a:hover{color:royalblue}
     position: relative;
     width: 100%;
     padding-top: 56.25%; /* 16:9 aspect ratio */
-    /*overflow: hidden;}
+    overflow: hidden;}
 
-/*
+
 video {
     position: absolute;
     top: 0;
@@ -75,7 +75,7 @@ video {
     width: 100%;
     height: 100%;
     object-fit: contain; /* Mostra o vídeo inteiro sem cortar */
-    /*background-color: #000;
+    background-color: #000;
 }
 
 .video-info {
@@ -98,4 +98,4 @@ video {
 div {
     display: block;
     unicode-bidi: isolate;
-} */
+}
