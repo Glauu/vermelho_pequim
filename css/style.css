@@ -121,3 +121,11 @@ footer{
 .fim li {
     line-height:1.5; margin:2px 89px; max-width:60%; display:inline-block;
 }
+
+.ig img{
+    width: 150%;
+}
+
+.you img{
+    width: 150%;
+}
