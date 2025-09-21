@@ -108,29 +108,69 @@ div {
     unicode-bidi: isolate;
 }
 
-footer{
-    background-color: #5f5151;
-    margin-bottom: 0;
-    text-align: center;
-    padding: 5px 0;
-}
-.fim h3{
-    color: #fff3fd;
+footer {
+            background-color: #1a1a1a;
+            padding: 30px 20px;
+            text-align: center;
+            color: #f2f2f2;
+            box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.1);
+            width: 100%;
+        }
 
-}
+        .icon-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 25px;
+            margin-bottom: 15px;
+        }
 
-.fim img{
-    width:18%;
-}
+        .footer-icon {
+            width: 40px;
+            height: 40px;
+            display: block;
+            transition: all 0.3s ease;
+            border-radius: 50%;
+            padding: 5px;
+            background-color: transparent;
+        }
 
-.fim li {
-    line-height:1.5; margin:2px 89px; max-width:60%; display:inline-block;
-}
+        .footer-icon:hover {
+            opacity: 0.8;
+            transform: scale(1.15) rotate(5deg);
+            background-color: rgba(32, 32, 32, 0.1);
+        }
+        
+        .footer-text {
+            margin-top: 15px;
+            font-size: 0.9rem;
+            color: #aaa;
+        }
+        
+        /* Simulação de ícones (caso os seus não carreguem) */
+        .icon-placeholder {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            font-weight: bold;
+            color: white;
+        }
+        
+        .icon-instagram {
+            background: linear-gradient(45deg, #7f37c9, #ff2992, #ff9807);
+        }
+        
+        .icon-youtube {
+            background-color: #cf0202;
+        }
+        
+        .icon-vp {
+            background: linear-gradient(45deg, #8b0000, #ff0000);
+        }
+  
 
-.ig img{
-    width: 150%;
-}
 
-.you img{
-    width: 150%;
-}
+     
