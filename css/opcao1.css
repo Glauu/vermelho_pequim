@@ -61,7 +61,7 @@ a:hover{color:royalblue}
     overflow: hidden;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s ease;
-    margin-bottom: 10px;
+    gap: 10px;
 }
 
 .video-card:hover {
@@ -159,17 +159,15 @@ footer {
             color: white;
         }
         
-        .icon-instagram {
-            background-color: #f2f2f2;}
+        .ig {
+            background-color:#ff1389; border-radius: 50%;
+        }
 
-        .icon-youtube {
-            background-color: #cf0202;
+        .you {
+            background-color: #FF0000; border-radius: 30%;
         }
         
-        .icon-vp {
-            background: linear-gradient(45deg, #8b0000, #ff0000);
-        }
-        .footer h3{
+        .footer{
             font-size: 20px;
             margin-bottom: 5px;
             padding-bottom: 15px;
